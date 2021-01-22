@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  font-family: "Raleway", sans-serif;
+  text-align: center;
+  background-color: #9575cd;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+.btn-large {
+  margin-top: 8%;
+  background-color: #4527a0;
+}
+.btn-large:hover {
+  background-color: #5e35b1;
+}
+h1 {
+  color: #fff;
+  margin-top: 8%;
+}
